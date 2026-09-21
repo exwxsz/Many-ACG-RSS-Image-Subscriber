@@ -1,0 +1,39 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ---- PyInstaller 打包产物 ----
+build/
+dist/
+*.spec
+
+# ---- IDE ----
+.idea/
+.vscode/
+*.swp
+
+# ---- 系统文件 ----
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ---- 发布压缩包（体积大，走 GitHub Releases，不入库） ----
+*.rar
+*.zip
+*.7z
+*.tar.gz
+
+# ---- 程序运行时产生的用户数据（严禁入库） ----
+.manyacg_get/
+config.json
+database.json
+*.log
+*.bak
+
+# ---- 本地临时文件 ----
+~$*
+*.tmp
+*.temp
