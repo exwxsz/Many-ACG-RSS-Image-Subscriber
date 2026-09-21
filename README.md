@@ -41,7 +41,7 @@
 
 ### 方式一：下载即用（推荐普通用户）
 
-前往 [Releases 页面](https://github.com/exwxsz/Many-ACG-RSS-Image-Subscriber/releases/latest) 下载 `RSS图片订阅-v1.0.0-full.rar`：
+前往 [Releases 页面](https://github.com/exwxsz/Many-ACG-RSS-Image-Subscriber/releases/latest) 下载 `Many-ACG-RSS-Image-Subscriber-v1.0.0-full.rar`：
 
 1. 解压到任意目录（路径避免包含中文以外的问题字符）
 2. 双击 `dist\RSS图片订阅.exe` 即可运行

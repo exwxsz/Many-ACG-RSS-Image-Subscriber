@@ -3,6 +3,10 @@
   https://github.com/exwxsz/Many-ACG-RSS-Image-Subscriber
 ========================================================
 
+【从哪里下载最新版】
+  https://github.com/exwxsz/Many-ACG-RSS-Image-Subscriber/releases/latest
+  下载附件：Many-ACG-RSS-Image-Subscriber-v1.0.0-full.rar
+
 【怎么用】(三步搞定)
 --------------------------------------------------------
 第 1 步：直接双击运行  dist\RSS图片订阅.exe
